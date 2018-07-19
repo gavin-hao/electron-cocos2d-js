@@ -18,5 +18,5 @@ npm run start
 ----
 
 ```bash
-npm run build
+npm run pack
 ```

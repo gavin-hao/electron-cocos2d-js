@@ -1,0 +1,14 @@
+{
+    "window": {
+        "width": 1024,
+        "height": 768,
+        "resizable": false,
+        "movable": false,
+        "minimizable": false,
+        "maximizable": false,
+        "frame": false,
+        "fullscreen": true,
+        "devTools": false,
+        "icon": "../rts.ico"
+    }
+}

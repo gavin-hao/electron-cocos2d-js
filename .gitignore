@@ -25,4 +25,4 @@ its-client-electron.zip
 its-client-electron/answertool/.students.json
 dist1/
 publish
-app/*
+app/frameworks/
